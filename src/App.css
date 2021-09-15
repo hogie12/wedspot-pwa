@@ -1,0 +1,11 @@
+@font-face {
+  font-family: proxima_nova;
+  src: url(./fonts/ProximaNova-Regular.otf);
+  font-style: normal;
+  font-weight: normal;
+}
+
+.App {
+  font-family: proxima_nova;
+  font-weight: normal;
+}

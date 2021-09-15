@@ -1,0 +1,46 @@
+.textfield {
+  width: 35.71rem;
+  margin: 1rem 1.7rem;
+}
+.titlefield {
+  width: 35.71rem;
+}
+.textfieldempty {
+  width: 35.71rem;
+  height: 0.001rem;
+}
+.textfieldmargin {
+  margin: 1rem 0 1.36rem 0;
+}
+.textfieldmarginbottom {
+  margin: 1rem 0 2.3rem 0;
+}
+
+.details {
+  margin: 0 0 1.1rem 0;
+  font-weight: 400;
+  font-size: 1.14rem;
+  width: 16.43rem;
+}
+
+.divDetails {
+  display: flex;
+}
+.divmargin {
+  margin: 1rem 0;
+  border-bottom: solid 1px #e1e1e1;
+}
+.divmargin2 {
+  margin: 1rem 0;
+}
+.logoDetails {
+  margin: 0 0 1.1rem 0;
+  font-weight: 400;
+  font-size: 1.14rem;
+  width: 7rem;
+  display: flex;
+  justify-content: space-between;
+}
+.icon {
+  color: #c97c68;
+}
